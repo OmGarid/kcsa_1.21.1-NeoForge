@@ -1,9 +1,60 @@
 {
   "weapon_name": "Torment Prototype Zero",
   "weapon_desc": "An experimental prototype developed under the Torment Armament program.",
-  "magazine_capacity": 30,
-  "damage": 22,
-  "fire_rate": 700,
+
+  "ammo_type": "fxrydarmament:7_62x39",
+  "magazine_capacity": 25,
+  "damage": 12,
+  "fire_rate": 800,
   "reload_time": 40,
-  "reload_empty_time": 50
+  "reload_empty_time": 50,
+  "draw_time": 20,
+  "holster_time": 20,
+
+  "inspect_time": 0,
+  "is_inspect_skippable": true,
+  "is_inspect_redirect": false,
+
+  "recoil_pitch": 2.0,
+  "recoil_yaw": 1.0,
+  "recoil_recovery": 1.0,
+  "recoil_randomness": 0.1,
+
+  "sounds": {
+    "fire": {
+      "volume": 1.0,
+      "pitch_min": 0.95,
+      "pitch_max": 1.05
+    },
+    "mag_out": {
+      "volume": 1.0,
+      "pitch_min": 0.98,
+      "pitch_max": 1.02
+    },
+    "mag_in": {
+      "volume": 1.0,
+      "pitch_min": 0.98,
+      "pitch_max": 1.02
+    },
+    "bolt_forward": {
+      "volume": 1.0,
+      "pitch_min": 0.98,
+      "pitch_max": 1.02
+    },
+    "bolt_backward": {
+      "volume": 1.0,
+      "pitch_min": 0.98,
+      "pitch_max": 1.02
+    },
+    "gunshot_echo": {
+      "volume": 0.8,
+      "pitch_min": 0.9,
+      "pitch_max": 1.1
+    },
+    "firemode_click": {
+      "volume": 0.8,
+      "pitch_min": 0.98,
+      "pitch_max": 1.02
+    }
+  }
 }

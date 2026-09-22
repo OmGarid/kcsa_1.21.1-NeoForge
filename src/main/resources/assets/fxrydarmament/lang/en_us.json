@@ -24,11 +24,15 @@
 
   "creativetab.fxrydarmament.fxryd_items": "KangCylung's Items",
   "creativetab.fxrydarmament.fxryd_firearms": "KangCylung's Firearms",
+  "creativetab.fxrydarmament.fxryd_ammo": "KangCylung's Ammunition",
   "creativetab.fxrydarmament.fxryd_armors": "KangCylung's Armors",
   "creativetab.fxrydarmament.fxryd_blocks": "KangCylung's Blocks",
 
   "key.categories.fxrydarmament": "KangCylung's Stupid Armament",
 
   "key.fxrydarmament.fire": "Fire",
-  "key.fxrydarmament.reload": "Reload Firearm"
+  "key.fxrydarmament.reload": "Reload Firearm",
+  "key.fxrydarmament.fire_mode": "Change Fire Mode",
+
+  "key.fxrydarmament.open_catalog": "Open Catalog Menu"
 }

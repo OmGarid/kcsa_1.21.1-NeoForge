@@ -1,0 +1,37 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "builtin/entity",
+  "texture_size": [
+    48,
+    48
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "scale": [
+        0.28,
+        0.28,
+        0.28
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        37.13000000000011,
+        -24.889999999999873,
+        12.349999999999909
+      ],
+      "translation": [
+        -1.75,
+        2.25,
+        0
+      ],
+      "scale": [
+        0.39,
+        0.39,
+        0.39
+      ]
+    }
+  },
+  "textures": {
+    "particle": "fxrydarmament:item/7_62x39"
+  }
+}

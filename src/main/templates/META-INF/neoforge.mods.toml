@@ -36,7 +36,7 @@ displayName="${mod_name}" #mandatory
 #displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
 
 # A file name (in the root of the mod JAR) containing a logo for display
-logoFile="icon.png" #optional
+logoFile="kcsa.png" #optional
 
 # A text field displayed in the mod UI
 #credits="" #optional
@@ -52,14 +52,14 @@ This mod is just for my hobby... and maybe cuz i hate my life too.
 This mod adds:
 1.) Few Selections of Guns)
 2.) Few Selections of Mechs
-3.) Few New Armors
+3.) Few New Custom Armors
 
 All is craftable in survival through Included workbench in this mod...
 '''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.
-#[[mixins]]
-#config="${mod_id}.mixins.json"
+[[mixins]]
+config="${mod_id}.mixins.json"
 
 # The [[accessTransformers]] block allows you to declare where your AT file is.
 # If this block is omitted, a fallback attempt will be made to load an AT from META-INF/accesstransformer.cfg

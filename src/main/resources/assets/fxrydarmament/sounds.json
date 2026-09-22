@@ -1,0 +1,44 @@
+{
+  "torment_pz.fire": {
+    "category": "player",
+    "sounds": [
+      "fxrydarmament:torment_pz/fire"
+    ]
+  },
+  "torment_pz.mag_out": {
+    "category": "player",
+    "sounds": [
+      "fxrydarmament:torment_pz/mag_out"
+    ]
+  },
+  "torment_pz.mag_in": {
+    "category": "player",
+    "sounds": [
+      "fxrydarmament:torment_pz/mag_in"
+    ]
+  },
+  "torment_pz.bolt_forward": {
+    "category": "player",
+    "sounds": [
+      "fxrydarmament:torment_pz/bolt_forward"
+    ]
+  },
+  "torment_pz.bolt_backward": {
+    "category": "player",
+    "sounds": [
+      "fxrydarmament:torment_pz/bolt_backward"
+    ]
+  },
+  "torment_pz.gunshot_echo": {
+    "category": "player",
+    "sounds": [
+      "fxrydarmament:torment_pz/gunshot_echo"
+    ]
+  },
+  "torment_pz.firemode_click": {
+    "category": "player",
+    "sounds": [
+      "fxrydarmament:torment_pz/firemode_click"
+    ]
+  }
+}

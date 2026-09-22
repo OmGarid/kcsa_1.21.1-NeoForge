@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "net.fxrydarmament.kcsa.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "MixinLivingEntity",
+    "MixinGameRenderer"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
